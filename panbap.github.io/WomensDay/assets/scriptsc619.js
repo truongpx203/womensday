@@ -36,19 +36,31 @@ for (let i = 0; i < 20; i++) {
 }
 
 const imageList = [
-  "./assets/a1.jpg",
-  "./assets/a2.jpg",
-  "./assets/a3.jpg",
-  "./assets/a4.jpg",
-  "./assets/a5.jpg",
+  "./assets/linh7.jpg",
+  "./assets/linh1.jpg",
+  "./assets/linh2.jpg",
+  "./assets/linh3.jpg",
+  "./assets/linh4.jpg",
+  "./assets/linh5.jpg",
+  "./assets/linh6.jpg",
+  "./assets/linh8.jpg",
+  "./assets/linh9.jpg",
+  "./assets/linh0.jpg",
+  "./assets/linh10.jpg",
 ];
 
 const textList = [
-  "Chúc bạn luôn vui vẻ, xinh đẹp và ngập tràn yêu thương!",
-  "Mỗi ngày của bạn đều là một đoá hoa nở rộ.",
-  "Cảm ơn bạn vì đã luôn mạnh mẽ và tuyệt vời như thế!",
-  "Chúc bạn một ngày 20/10 thật hạnh phúc và trọn vẹn!",
-  "Bạn là món quà tuyệt vời nhất mà cuộc sống mang lại!",
+  "Chúc em ngày 20/10 thật vui vẻ, xinh đẹp và hạnh phúc!",
+  "Mong em luôn tự tin, thành công và tràn đầy sức sống!",
+  "Mỗi ngày của em đều là một đoá hoa nở rộ.",
+  "Chúc em luôn rạng rỡ như ánh nắng ban mai!",
+  "Em luôn là bông hoa đẹp nhất trong mắt mọi người!",
+  "Chúc em luôn vui vẻ, xinh đẹp và ngập tràn yêu thương!",
+  "Em là món quà tuyệt vời nhất mà cuộc sống mang lại!",
+  "Chúc em không bị tạch môn, ra trường đúng hạn!",
+  "Hy vọng em luôn giữ được nụ cười tươi sáng và trái tim ấm áp!",
+  "Chúc em có một ngày thật đặc biệt và đáng nhớ!",
+  "Bớt mắng, bớt càu nhàu lại nhé!",
 ];
 
 let messages = imageList.map((img, i) => ({
@@ -71,6 +83,11 @@ const letterImages = [
   "./assets/h3.png",
   "./assets/t2.png",
   "./assets/t5.png",
+  "./assets/letters.png",
+  "./assets/t2.png",
+  "./assets/q3.png",
+  "./assets/t5.png",
+  "./assets/letters.png",
 ];
 
 function createHeartExplosion(x, y) {
