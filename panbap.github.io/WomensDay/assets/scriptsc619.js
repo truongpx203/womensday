@@ -50,17 +50,17 @@ const imageList = [
 ];
 
 const textList = [
-  "Chúc em ngày 20/10 thật vui vẻ, xinh đẹp và hạnh phúc!",
-  "Mong em luôn tự tin, thành công và tràn đầy sức sống!",
-  "Chúc em luôn rạng rỡ như ánh nắng ban mai!",
-  "Chúc em bình yên và không muộn phiền!",
-  "Mỗi ngày của em đều là một đoá hoa nở rộ!",
-  "Chúc em luôn vui vẻ, xinh đẹp và ngập tràn yêu thương!",
-  "Em luôn là bông hoa đẹp nhất trong mắt mọi người!",
-  "Hy vọng em luôn giữ được nụ cười tươi sáng và trái tim ấm áp!",
-  "Chúc em không bị tạch môn, ra trường đúng hạn!",
-  "Chúc em có một ngày thật đặc biệt và đáng nhớ!",
-  "Bớt mắng, bớt càu nhàu lại nhé!",
+  "Con Chó",
+  "Ngang",
+  "Linh ơi linhh à",
+  "Ngứa mắt tao",
+  "Chó con",
+  "Nganggggggggggggggggggggggggg",
+  "Chóoooooo",
+  "Chóooooooooo",
+  "Chóooooooooooooo",
+  "Chóooooooooooooooooooooo",
+  "Chóoooooooooooooooooooooooooo",
 ];
 
 let messages = imageList.map((img, i) => ({
